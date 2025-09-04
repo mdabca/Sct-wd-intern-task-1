@@ -1,4 +1,4 @@
-#Skill-craft-intern-wd-completed-task-1
+# Skill-craft-intern-wd-completed-task-1
 
 This task focuses on creating a Responsive Landing Page with an interactive and user-friendly navigation menu. The main objective is to design a clean, modern layout that adapts to different screen sizes while ensuring smooth interaction.
 
